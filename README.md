@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Gregor 👋
 
-<!--
-**GorGre14/GorGre14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on real-time data systems and interactive web applications.
 
-Here are some ideas to get you started:
+🎓 CS Student @ University of Primorska - FAMNIT  
+📍 Koper, Slovenia  
+🔧 Currently building: [OFC Trading Platform](https://ofc-trading.xyz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+**Frontend:** React, Next.js, TypeScript, Tailwind  
+**Backend:** Python, FastAPI, Redis, PostgreSQL  
+**Infra:** Docker, Linux, Vercel
+
+### 2025 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GorGre14&show_icons=true&theme=dark)
