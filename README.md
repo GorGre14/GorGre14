@@ -12,4 +12,4 @@ Full-stack developer focused on real-time data systems and interactive web appli
 **Infra:** Docker, Linux, Vercel
 
 ### 2025 Stats
-![GitHub stats](https://github-readmestats.vercel.app/apiusername=GorGre14&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=GorGre14&theme=dark)
