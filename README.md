@@ -11,5 +11,3 @@ Full-stack developer focused on real-time data systems and interactive web appli
 **Backend:** Python, FastAPI, Redis, PostgreSQL  
 **Infra:** Docker, Linux, Vercel
 
-### 2025 Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=GorGre14&theme=dark)
